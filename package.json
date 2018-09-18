@@ -1,0 +1,16 @@
+{
+  "name": "w4d2-lecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.4.1",
+    "pg-then": "^1.2.1"
+  }
+}
